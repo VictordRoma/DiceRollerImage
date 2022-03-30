@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiceRollerTextImg</string>
+    <string name="diceRoller">DiceRollerTextImg</string>
+    <string name="rool_label">Roller</string>
+    <string name="text_center">Digita um numero de 1 a 6 ae pô</string>
+</resources>
